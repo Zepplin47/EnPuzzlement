@@ -39,7 +39,12 @@
     "favicon": "@PROJECT_PATH@/assets/images/mini-logo-128x104.png",
     "noImageResize": "",
     "google-analytics": "",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "https://enpuzzlement.netlify.com/",
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "About Us.html": {
