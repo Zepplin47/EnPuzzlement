@@ -44,7 +44,14 @@
     "robotsSwitcher": "on",
     "siteUrl": "https://enpuzzlement.netlify.com/",
     "sitemapSwitcherAuto": "on",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "PWA": {
+      "enabled": true,
+      "name": "",
+      "icon": "@PROJECT_PATH@/assets/images/mini-logo-512x512.png",
+      "themeColor": "#149dcc"
+    },
+    "pwa-switcher": "on"
   },
   "pages": {
     "About Us.html": {
