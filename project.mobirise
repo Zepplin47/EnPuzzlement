@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EnPuzzlement",
-    "currentPage": "Our Partners.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4763,7 +4763,7 @@
       "settings": {
         "main": true,
         "title": "EnPuzzlement - Non Profit Donation Center",
-        "meta_descr": "Enpuzzlement in a family run non profit organization in Toledo, Ohio providing food, clothing, support, and donations to our local area. Bridges the gap between large corporate doners and local churches, soup Kitchens, food Pantries and food Banks.",
+        "meta_descr": "Enpuzzlement is a family run non profit organization in Toledo, Ohio providing food, clothing, support, and donations to our local area. ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
