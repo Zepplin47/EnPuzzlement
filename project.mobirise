@@ -41,7 +41,7 @@
     "google-analytics": "",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "on",
+    "robotsSwitcher": "",
     "siteUrl": "https://enpuzzlement.netlify.com/",
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on"
