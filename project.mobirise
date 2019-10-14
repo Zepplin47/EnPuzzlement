@@ -36,7 +36,7 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 71,
     "versionPublish": "4.10.15",
-    "favicon": "@PROJECT_PATH@/assets/images/mini-logo-128x104.png",
+    "favicon": "@PROJECT_PATH@/assets/images/mini-logo-app-icon-128x128.png",
     "noImageResize": "",
     "google-analytics": "",
     "screenshot": "screenshot.png",
